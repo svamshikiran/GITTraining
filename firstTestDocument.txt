@@ -1,1 +1,2 @@
 testing the first document for GIT
+testing the second commit option
